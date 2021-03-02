@@ -15,6 +15,6 @@ int main(int argc, const char * argv[]) {
     for (int i=1; i<5; i+=1) {
         printf("\n%d\n", i);
     }
-    print("To jest nowa linia");
+    printf("To jest nowa linia");
     return 0;
 }
