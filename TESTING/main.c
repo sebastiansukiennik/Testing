@@ -16,5 +16,6 @@ int main(int argc, const char * argv[]) {
         printf("\n%d\n", i);
     }
     printf("To jest nowa linia");
+    printf("Myślę, że teraz całkiem dobrze potrafie juz odbierac i wysyłac pliki na GIThub'a");
     return 0;
 }
