@@ -11,5 +11,6 @@
 int main(int argc, const char * argv[]) {
     // insert code here...
     printf("Tutaj witamy nowo powstały program ze swiatem\n");
+    printf("W tym miejscu dodaliśmy drugi tekst, aby odroznic od pierwszej zmiany");
     return 0;
 }
